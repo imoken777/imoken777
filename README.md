@@ -8,9 +8,5 @@
 - React
     - Next.js
 
-- Node.js
-    - Frourio
-
-- WSL2
-- Docker
-
+- frourio
+- Hono
